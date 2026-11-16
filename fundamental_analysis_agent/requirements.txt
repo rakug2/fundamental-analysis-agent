@@ -1,0 +1,13 @@
+openai
+openai-agents
+google-genai
+yfinance
+financetoolkit
+chromadb
+llama-index
+transformers
+torch
+python-dotenv
+tavily-python
+strands-agents[openai]
+bedrock-agentcore>=1.24.0,<2.0.0
